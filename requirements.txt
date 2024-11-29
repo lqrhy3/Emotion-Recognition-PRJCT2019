@@ -35,7 +35,7 @@ packaging==20.1
 Pillow==7.1.0
 pluggy==0.13.1
 pretrainedmodels==0.7.4
-py==1.8.1
+py==1.10.0
 Pygments==2.5.2
 pyparsing==2.4.6
 pyreadline==2.1
