@@ -1,7 +1,7 @@
 albumentations==0.4.5
 appdirs==1.4.3
 blessings==1.7
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 colorama==0.4.3
