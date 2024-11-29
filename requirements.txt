@@ -41,7 +41,7 @@ pyparsing==2.4.6
 pyreadline==2.1
 python-dateutil==2.8.1
 PyWavelets==1.1.1
-PyYAML==5.3
+PyYAML==5.4
 requests==2.23.0
 rootpath==0.1.1
 scikit-image==0.16.2
